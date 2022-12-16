@@ -1,6 +1,9 @@
+<img src="https://user-images.githubusercontent.com/109769812/207994186-7452c63e-e066-4eac-b465-3649f38def0c.png"  width="900" height="300"/>
+
 
 
 # Olá, me chamo Tiago Nascimento ! 
+
 ## Bem vindo ao meu perfil GitHub 👋
 Sou estudante em engenharia de Controle e Automação procurando oportunidades e colaboração em projetos relacionados à ciência de dados, backend, desenvolvimento de software, internet das coisas, robótica e operações em TI 🤝 . 
 
